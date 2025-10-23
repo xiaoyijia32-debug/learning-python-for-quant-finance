@@ -7,7 +7,7 @@ It includes weekly notes, code exercises, reflections, and mini-projects complet
 
 ---
 
-## 🗓 Weekly Progress
+## Weekly Progress
 
 | Week | Topic | Highlights |
 |------|--------|-------------|
@@ -19,7 +19,7 @@ It includes weekly notes, code exercises, reflections, and mini-projects complet
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - Python 3.12  
 - pandas, matplotlib, numpy  
 - QuantConnect (simulation environment)  
@@ -27,6 +27,6 @@ It includes weekly notes, code exercises, reflections, and mini-projects complet
 
 ---
 
-## 💬 About Me
+## About Me
 I’m currently studying Information Science at UBC, exploring how technology, design, and data intersect.  
 This project combines my interest in finance and programming.
