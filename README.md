@@ -1,5 +1,3 @@
-# learning-python-for-quant-finance
-A personal record of my journey learning Python for quantitative finance — includes code, notes, and weekly reflections.
 # Learning Python for Quantitative Finance
 
 This repository documents my self-learning journey for mastering Python and applying it to simple quantitative finance models.  
